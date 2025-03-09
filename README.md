@@ -58,7 +58,7 @@ portfolio/
 ## Setup and Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/mhtafhim/portfolio.git
 
 # Navigate to the project directory
 cd portfolio
